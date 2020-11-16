@@ -1,0 +1,7 @@
+Daily9 Assignment
+Write a C program that outputs a certain amount of astericks based on a user input.
+
+Output: 
+Please enter the number of astericks you want in your line: 31
+*******************************
+Press any key to continue . . .
