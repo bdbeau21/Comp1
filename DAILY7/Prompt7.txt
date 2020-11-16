@@ -1,0 +1,19 @@
+Daily7 Assignment
+Write a C program that ask the user for a positive integer, then loop down to zero 
+and loop up from zero to the positive integer
+
+Output: 
+Please enter a positive integer: 5
+5
+4
+3
+2
+1
+0
+****
+0
+1
+2
+3
+4
+5
