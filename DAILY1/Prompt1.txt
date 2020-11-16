@@ -1,0 +1,5 @@
+Daily1 Assignment
+Write a C program that outputs the executable name.
+
+Output: This program has the executable name: "Executable Name"
+        That is all!
