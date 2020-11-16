@@ -1,0 +1,20 @@
+Daily14 Assignment
+Write a C program that is a continuation of Daily12 and Daily13 that implements sum of the conversion functions using void functions.
+
+Output: 
+Please enter
+ 0 - to quit,
+ 1 - to convert length,
+ 2 - to convert weights: 2
+Please enter
+ 0 - to quit,
+ 1 - to convert weights from pounds/ounces to kilograms/grams,
+ 2 - to convert weights from kilograms/grams to pounds/ounces : 1
+Please enter the number of pounds: 12
+Please enter the number of ounces: 2
+The user inputted 12 pounds and 2.00 ounces
+This converts to 5 kilograms and 499.86 grams.
+Please enter
+ 0 - to quit,
+ 1 - to convert weights from pounds/ounces to kilograms/grams,
+ 2 - to convert weights from kilograms/grams to pounds/ounces : 0
