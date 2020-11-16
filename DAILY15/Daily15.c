@@ -2,15 +2,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Define numbers1 text file
-#define fileLoc1 "/Users/brettbeaulieu/COMP SCI/Daily16.c/Daily16.c/numbers1.txt"
-
-// Define numbers2 text file
-#define fileLoc2 "/Users/brettbeaulieu/COMP SCI/Daily16.c/Daily16.c/numbers2.txt"
-
-// Define output text file
-#define fileLoc3 "/Users/brettbeaulieu/COMP SCI/Daily16.c/Daily16.c/output.txt"
-
 /*
     Function to merge numbers1 and numbers2 text files and output
     to output text files
