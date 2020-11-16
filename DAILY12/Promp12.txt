@@ -1,0 +1,11 @@
+Daily12 Assignment
+Write a C program uses a switch function to choose between length and width stub functions.
+
+Output: 
+Please enter 0 - to quit,
+ 1 - to convert length,
+ 2 - to convert weight: 1
+User choices length.
+Please enter 0 - to quit,
+ 1 - to convert length,
+ 2 - to convert weight: 0
