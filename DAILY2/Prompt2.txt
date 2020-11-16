@@ -1,0 +1,8 @@
+Daily2 Assignment
+Write a C program that outputs the your name and an interesting fact about yourself.
+
+Output: Hello, my name is ...... 
+        This class is Awesome Sauce! 
+        Something about me: I play club tennis for Umass Lowell
+        
+Name is left out!
