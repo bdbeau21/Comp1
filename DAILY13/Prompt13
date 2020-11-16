@@ -1,0 +1,17 @@
+Daily13 Assignment
+Write a C program that uses stub function with width and length metric and us measurements.
+
+Output: 
+Please enter
+ 0 - to quit,
+ 1 - to convert length,
+ 2 - to convert weights: 2
+Please enter
+ 0 - to quit,
+ 1 - to convert weights from pounds/ounces to kilograms/grams,
+ 2 - to convert weights from kilograms/grams to pounds/ounces : 1
+Weight to metric
+Please enter
+ 0 - to quit,
+ 1 - to convert weights from pounds/ounces to kilograms/grams,
+ 2 - to convert weights from kilograms/grams to pounds/ounces : 0
