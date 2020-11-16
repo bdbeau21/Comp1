@@ -1,0 +1,2 @@
+Daily15 Assignment
+Write a C program that merges two files together.
