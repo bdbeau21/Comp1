@@ -1,0 +1,8 @@
+Daily11 Assignment
+Write a C program that asks the user for two inputs and outputs the greatest common divisor between the two numbers.
+
+Output: 
+Please enter a positive integer: 3
+Please enter a positive integer: 3
+The largest integer that divides 3 and 3 is: 3
+Press any key to continue . . .
