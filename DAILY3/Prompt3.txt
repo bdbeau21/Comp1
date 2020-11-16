@@ -1,0 +1,11 @@
+Daily3 Assignment
+Write a C program that declare, initializes, and prints out
+- An integer with the value of 42
+- A character J
+- A float with a value of 3.141590
+- And use the % character for output
+
+Output: 42 is an integer and should be printed using %d.
+The character J can be printed using %c.
+Floating point numbers use %f. 3.141590 is an example.
+Press any button to continue . . .
