@@ -1,0 +1,6 @@
+Daily8 Assignment
+Write a C program that ask the user for a negative number and error checks until a negative is inputted. Make sure to clear the input!
+
+Output: 
+Please enter a negative integer: -3 
+Press any key to continue . . .
