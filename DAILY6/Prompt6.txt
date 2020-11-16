@@ -1,0 +1,13 @@
+Daily6 Assignment
+Write a C program that does the following:
+If a number is even, divide the number by two.
+If a number is odd, multiply an odd by 3 and add one.
+
+Output: 
+Please enter a positive integer: 2
+The next value of the number is: 1
+
+or 
+
+Please enter a positive integer: 3
+The next value of the number is: 10
