@@ -1,0 +1,9 @@
+Daily10 Assignment
+Write a C program that uses enumerated values to play rock, paper, scissors between two players.
+
+Output: 
+Player-1 it is your turn!
+Please enter your choice (p)aper, (r)ock, and (s)cissors: r
+Player-2 it is your turn!
+Please enter your choice (p)aper, (r)ock, and (s)cissors: p
+Player-2 wins! Paper covers rock.
