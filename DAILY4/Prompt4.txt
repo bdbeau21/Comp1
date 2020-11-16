@@ -1,0 +1,24 @@
+Daily4 Assignment
+Write a C program that outputs three happy faces.
+
+Output:  
+  ****  
+ * . .*  
+*      * 
+*  \_/ * 
+ *    *  
+  ****  
+
+  ****  
+ * . .*  
+*      * 
+*  \_/ * 
+ *    *  
+  ****  
+
+  ****  
+ * . .*  
+*      * 
+*  \_/ * 
+ *    *  
+  ****  
